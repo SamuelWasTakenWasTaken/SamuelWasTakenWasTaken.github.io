@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ababab;
+    color: #333;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #009688;
+}
+
+p {
+    line-height: 1.6;
+}
+
